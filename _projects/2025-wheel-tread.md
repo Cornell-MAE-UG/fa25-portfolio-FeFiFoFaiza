@@ -6,7 +6,6 @@ technologies: [Additive Manufacturing, Parametric CAD, Terrain Testing]
 image: /assets/images/rover-wheels.png
 ---
 
-
 I developed 3D-printed rover wheels engineered to maximize traction, structural rigidity, and performance on loose or uneven terrain. The design process involved tread-pattern research, iterative prototyping, and terrain-based validation.
 
 Key Accomplishments
