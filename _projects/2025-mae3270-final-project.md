@@ -6,7 +6,7 @@ technologies: [Autodesk Inventor, Ansys, MATLAB]
 image: /assets/images/DesignDef.png
 ---
 
-Our goal for this project is to design a non-ratcheting, 3/8 inch drive instrumented torque wrench rated for 600 in-lbf. Torque will be transduced using strain gauges bonded to the outer surfaces of the wrench at high strain locations. The design of the torque wrench will have to satisfy the following requirements:
+Our project focused on designing a non-ratcheting, 3/8-inch drive instrumented torque wrench rated for 600 in-lbf. Torque measurements are obtained using strain gauges bonded to the wrench at high-strain locations. The design requirements were:
 1. attain at least 1.0 mV/V output at the rated torque of 600 in-lbf
 2. safety factor of Xo = 4 for yield failure as it is a ductile material
 3. safety factor of Xk = 2 for crack growth from an assumed crack of depth 0.04 inches (1 mm)
@@ -95,7 +95,7 @@ Normal strain contours (in the strain gauge direction) from FEM
 Contour plot of maximum principal stress from FEM
 <img src="{{ '/assets/images/MaxPrincipalStress.png' | relative_url }}" alt="Ansys stress contour plot" style="width:100%; max-width:900px; height:auto; display:block; margin:18px auto; border-radius:8px;">
 
-Maximum normal stress is 53811 psi (at where the drive meets the handle), strain at strain gauge location is 886 microstrain, and deflection of load point is 0.41648in.
+Maximum normal stress is 53811 psi (at where the drive meets the handle), strain at strain gauge location is 886 microstrain, and deflection of load point is 0.41648in. Results from the ANSYS model differed from the MATLAB calculations due to different assumptions. After changing the boundary conditions to better suit the assumptions being made for the script (namely fixing the other end of the wrench), the model results came to be within 10% of our expected calculations.
 
 Strain at gauge from FEM = 886 microstrain, equivalent to 137.28 mV/V at 600 in-lbf using full bridge
 
