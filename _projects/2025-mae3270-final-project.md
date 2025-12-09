@@ -79,7 +79,7 @@ b = 1.3 in
 c = 1 in
 
 Images of our CAD model:
-<img src="{{ '/assets/images/designCAD.png' | relative_url }}" alt="CAD of the updated torque wrench design" style="width:300px; height:200px; object-fit:cover; border-radius:8px; margin:12px;">
+<img src="{{ '/assets/images/designCAD.png' | relative_url }}" alt="CAD of the updated torque wrench design" style="width:100%; max-width:900px; height:auto; display:block; margin:18px auto; border-radius:8px;">
 
 Part drawing showing all key dimensions:
 ![Key dimensions]({{ "/assets/images/designPartDrawing.png" | relative_url | width = 100}})
