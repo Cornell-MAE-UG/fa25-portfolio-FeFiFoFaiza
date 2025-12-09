@@ -79,7 +79,7 @@ b = 1.3 in
 c = 1 in
 
 Images of our CAD model:
-![CAD of the updated torque wrench design]({{ "/assets/images/designCAD.png" | relative_url | width = 100}})
+<img src="{{ '/assets/images/designCAD.png' | relative_url }}" alt="CAD of the updated torque wrench design" style="width:300px; height:200px; object-fit:cover; border-radius:8px; margin:12px;">
 
 Part drawing showing all key dimensions:
 ![Key dimensions]({{ "/assets/images/designPartDrawing.png" | relative_url | width = 100}})
@@ -87,13 +87,13 @@ Part drawing showing all key dimensions:
 We used Aluminum 6061-T6. It is a ductile material and an industry standard. It has a Young’s modulus of 9.66 x 10<sup>6</sup> psi, Poisson’s ratio of 0.33, yield tensile strength of 3.77 x 10<sup>4</sup> psi, fracture toughness of 30050 psi sqrt(in), and fatigue strength for 10<sup>6</sup> cycles of 20500 psi.
 
 How loads and boundary conditions were applied to our FEM model:
-![Ansys loads and boundary conditions]({{ "/assets/images/Diagram for BC.jpg" | relative_url | width = 100}})
+<img src="{{ '/assets/images/Diagram for BC.jpg' | relative_url }}" alt="Ansys loads and boundary conditions" style="width:100%; max-width:900px; height:auto; display:block; margin:18px auto; border-radius:8px;">
 
 Normal strain contours (in the strain gauge direction) from FEM
-![Ansys normal strain contours]({{ "/assets/images/NormalStrainAlongZ.png" | relative_url | width = 100}})
+<img src="{{ '/assets/images/NormalStrainAlongZ.png' | relative_url }}" alt="Ansys normal strain contours" style="width:100%; max-width:900px; height:auto; display:block; margin:18px auto; border-radius:8px;">
 
 Contour plot of maximum principal stress from FEM
-![Ansys stress contour plot]({{ "/assets/images/MaxPrincipalStress.png" | relative_url | width = 100}})
+<img src="{{ '/assets/images/MaxPrincipalStress.png' | relative_url }}" alt="Ansys stress contour plot" style="width:100%; max-width:900px; height:auto; display:block; margin:18px auto; border-radius:8px;">
 
 Maximum normal stress is 53811 psi (at where the drive meets the handle), strain at strain gauge location is 886 microstrain, and deflection of load point is 0.41648in.
 
