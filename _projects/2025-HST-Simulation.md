@@ -22,3 +22,6 @@ Key Accomplishments
 This project demonstrates end-to-end spacecraft attitude modeling and control, with all major technical contributions handled personally, ensuring the project’s success.
 
 ![PDF](/assets/MAE%203260%20Final%20GW%20State%20of%20Space.pdf "PDF")
+
+[Download Report]({{ "/assets/MAE 3260 Final GW State of Space.pdf" | relative_url }}) in PDF format.
+
