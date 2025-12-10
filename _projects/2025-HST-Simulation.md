@@ -20,3 +20,10 @@ Key Accomplishments
 - Compiled the full project report, including derivations, simulations, and results, available as a PDF.  
 
 This project demonstrates end-to-end spacecraft attitude modeling and control, with all major technical contributions handled personally, ensuring the project’s success.
+
+
+<object data="https://github.com/Cornell-MAE-UG/fa25-portfolio-FeFiFoFaiza/blob/3975191f90d32b26d37567b0ebac36173d36ca20/assets/MAE%203260%20Final%20GW%20State%20of%20Space.pdff" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Cornell-MAE-UG/fa25-portfolio-FeFiFoFaiza/blob/3975191f90d32b26d37567b0ebac36173d36ca20/assets/MAE%203260%20Final%20GW%20State%20of%20Space.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Cornell-MAE-UG/fa25-portfolio-FeFiFoFaiza/blob/3975191f90d32b26d37567b0ebac36173d36ca20/assets/MAE%203260%20Final%20GW%20State%20of%20Space.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
