@@ -1,0 +1,32 @@
+---
+layout: project
+title: Fluid Mechanical Dissection: Dual Action Bike Pump
+description: Functional and fluid-mechanical analysis of a dual-action bicycle pump using control volume and internal flow modeling
+technologies: [Fluid Mechanics, Control Volumes, Reynolds Number Analysis, Bernoulli Equation]
+image: /assets/images/FBD.png
+video: https://www.youtube.com/watch?v=3Afk_YIT2pY
+---
+
+This project is a Fluids Mechanical Dissection (FMD) of a dual-action bicycle pump, completed as a group. The goal of the FMD was to identify the internal flow paths, control volumes, and governing fluid mechanics that enable the pump to generate continuous airflow during both the upstroke and downstroke.
+
+The pump operates as a positive displacement pump using one-way check valves and multiple internal chambers. The system was analyzed as a container–pipe system with unsteady internal flow driven by pressure differences rather than external freestream effects.
+
+## My Contribution
+
+My contribution focused on **analyzing the system dynamics and internal fluid behavior**, including:
+
+- Applying Bernoulli’s equation with head losses to explain pressure generation and flow through the valves and hose  
+- Estimating Reynolds number within the hose and internal passages to characterize the flow regime  
+- Explaining how design parameters (piston diameter, hose diameter, surface roughness, and bends) affect required pumping force and efficiency  
+
+## Key Fluids Concepts
+
+- Positive displacement pumping  
+- Dual-action pressure–volume work during suction and compression strokes  
+- Darcy–Weisbach friction losses in intermittent internal flow  
+- Reynolds number effects on turbulence and efficiency  
+
+## Video Presentation
+
+The full Fluids Mechanical Dissection, including physical disassembly and analysis, is available here:  
+[Watch the FMD Video on YouTube](https://www.youtube.com/watch?v=3Afk_YIT2pY)
