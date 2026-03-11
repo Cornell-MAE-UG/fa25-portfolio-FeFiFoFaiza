@@ -11,4 +11,6 @@ I chose this homework problem for my MAE portfolio because it shows a clear real
 
 This assignment stood out to me because heat sinks are used everywhere in engineering, especially in electronics and mechanical systems where overheating can be a major issue. By calculating fin efficiency and evaluating the performance of the fin array, I got a better understanding of how engineers decide whether adding fins actually improves heat transfer. It also showed how factors like geometry, material properties, and convection conditions affect the overall performance of a cooling system. Modeling the entire setup as a thermal resistance network made the problem much easier to analyze and reinforced how complex heat transfer systems can be broken down into simpler pieces. Overall, this experience helped me see how the theory we learn in class directly connects to designing real thermal management systems, like cooling electronics, batteries, or other high-power equipment.
 
-[View Full Problem Solution](/assets/heat_sink_problem.pdf)
+![PDF](/assets/heat_sink_problem.pdf "PDF")
+
+[Download Report]({{ "/assets/heat_sink_problem.pdf" | relative_url }}) in PDF format.
