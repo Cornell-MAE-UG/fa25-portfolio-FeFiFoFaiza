@@ -3,7 +3,7 @@ layout: project
 title: Mechatronics
 description: Final Report of Robot Building Competition
 technologies: [Arduino, C++, Circuits]
-image: /assets/images/mechatronics.png
+image: /assets/images/mechatronics.JPG
 pdf: /assets/mechatronics.pdf
 ---
 
